@@ -1,44 +1,3 @@
-# phpdojo – Repositório de Coding Dojos da comunidade PHP‑Manaus
-
-Este repositório armazena os exercícios práticos (Dojo) de teste-driven-development (TDD) ou até códigos mais simples realizados por membros da comunidade **PHP‑Manaus** , baseados nos modelos da Globo.com contribuido inicialmente por [@fabiobrasileiroo](https://github.com/fabiobrasileiroo).
-
-Código inicial do dia 2025_07_17 no evento originalmente desenvolvido por **Marcia** e **João** durante o Coding Dojo em php.
-
-## 🚀 Como participar
-
-1. Crie uma **issue** propondo melhorias ou a inclusão de outra linguagem.
-2. Receba feedback da comunidade.
-3. Submeta sua **pull request** com um subprojeto dojo novo.
-
-## 🛠️ Gerando um subprojeto dojo
-
-As linguagens suportadas:
-
-- go
-- java
-- javascript
-- php
-- python
-- ruby
-- rust
-- r
-
-### Exemplo de uso
-
-```bash
-make dojo-php
-```
-# exemplo
-
-```bash
-dojo@master:~$ make dojo-php
-Selected language: php
-
-Creating directory...
-
-Copying the files to the directory ./2025_07_16 ...
-
-Boilerplate successfully created: 2025_07_16
 ▗▖   ▗▄▄▄▖▗▄▄▄▖ ▗▄▄▖     ▗▄▄▄   ▗▄▖    ▗▖ ▗▄▖      ▗▄▄▖ ▗▖ ▗▖▗▄▄▖ ▗▄▄▄▄▖▗▄▄▄▖▗▄▄▄▖▗▄▄▖  ▗▄▖  ▗▄▄▖ 
 ▐▌   ▐▌     █  ▐▌        ▐▌  █ ▐▌ ▐▌   ▐▌▐▌ ▐▌     ▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌   ▗▞▘▐▌     █  ▐▌ ▐▌▐▌ ▐▌▐▌
 ▐▌   ▐▛▀▀▘  █   ▝▀▚▖     ▐▌  █ ▐▌ ▐▌   ▐▌▐▌ ▐▌     ▐▛▀▘ ▐▛▀▜▌▐▛▀▘  ▗▞▘  ▐▛▀▀▘  █  ▐▛▀▚▖▐▌ ▐▌ ▝▀▚▖ 
@@ -57,8 +16,4 @@ Boilerplate successfully created: 2025_07_16
       /#  .!    |        /\    /
       \  C// #  /'-----''/ #  / 
    .   'C/ |    |    |   |    |mrf  ,
-   \), .. .'OOO-'. ..'OOO'OOO-'. ..\(,⏎  
-```
-
-### License
-Dojo is licensed under the MIT license
+   \), .. .'OOO-'. ..'OOO'OOO-'. ..\(,
